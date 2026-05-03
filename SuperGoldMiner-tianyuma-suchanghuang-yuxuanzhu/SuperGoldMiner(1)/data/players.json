@@ -1,0 +1,97 @@
+[ {
+  "id" : 2,
+  "nickname" : "mty",
+  "totalScore" : 5050,
+  "goldCoin" : 1805,
+  "collectedMinerals" : [ {
+    "name" : "stone",
+    "id" : 1,
+    "name" : "stone",
+    "value" : 1,
+    "weight" : 10
+  }, {
+    "name" : "stone",
+    "id" : 1,
+    "name" : "stone",
+    "value" : 1,
+    "weight" : 10
+  }, {
+    "name" : "stone",
+    "id" : 1,
+    "name" : "stone",
+    "value" : 1,
+    "weight" : 10
+  }, {
+    "name" : "diamond",
+    "id" : 1,
+    "name" : "diamond",
+    "value" : 500,
+    "weight" : 2
+  }, {
+    "name" : "diamond",
+    "id" : 1,
+    "name" : "diamond",
+    "value" : 500,
+    "weight" : 2
+  }, {
+    "name" : "gold",
+    "id" : 1,
+    "name" : "gold",
+    "value" : 100,
+    "weight" : 5
+  }, {
+    "name" : "gold",
+    "id" : 1,
+    "name" : "gold",
+    "value" : 100,
+    "weight" : 5
+  }, {
+    "name" : "gold",
+    "id" : 1,
+    "name" : "gold",
+    "value" : 100,
+    "weight" : 5
+  }, {
+    "name" : "gold",
+    "id" : 1,
+    "name" : "gold",
+    "value" : 100,
+    "weight" : 5
+  }, {
+    "name" : "stone",
+    "id" : 1,
+    "name" : "stone",
+    "value" : 1,
+    "weight" : 10
+  }, {
+    "name" : "gold",
+    "id" : 1,
+    "name" : "gold",
+    "value" : 100,
+    "weight" : 5
+  }, {
+    "name" : "gold",
+    "id" : 1,
+    "name" : "gold",
+    "value" : 100,
+    "weight" : 5
+  }, {
+    "name" : "gold",
+    "id" : 1,
+    "name" : "gold",
+    "value" : 100,
+    "weight" : 5
+  }, {
+    "name" : "stone",
+    "id" : 1,
+    "name" : "stone",
+    "value" : 1,
+    "weight" : 10
+  }, {
+    "name" : "gold",
+    "id" : 1,
+    "name" : "gold",
+    "value" : 100,
+    "weight" : 5
+  } ]
+} ]
